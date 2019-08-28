@@ -68,3 +68,5 @@ task androidSourcesJar(type: Jar) {
 artifacts {
     archives androidSourcesJar
 }
+
+//////// 打包发布配置结束 ////////
