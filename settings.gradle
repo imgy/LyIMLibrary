@@ -1,2 +1,0 @@
-include ':app', ':imlibrary'
-rootProject.name='IMApplication'
